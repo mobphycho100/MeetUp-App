@@ -10,41 +10,41 @@ The goal of this coding exam is to quickly get you off the ground with **React C
 
 ### Design Files
 
-<details>
+
 <summary>Home Route</summary>
 
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Home](https://assets.ccbp.in/frontend/content/react-js/meetup-lg-home-output.png)
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Home Registered View](https://assets.ccbp.in/frontend/content/react-js/meetup-lg-home-registered-output.png)
 
-</details>
 
-<details>
+
+
 <summary>Register Route</summary>
 
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Register](https://assets.ccbp.in/frontend/content/react-js/meetup-lg-register-output-.png)
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Register Failure](https://assets.ccbp.in/frontend/content/react-js/meetup-lg-register-error-output.png)
 
-</details>
 
-<details>
+
+
 <summary>Not Found Route</summary>
 
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Not Found](https://assets.ccbp.in/frontend/content/react-js/meetup-lg-not-found-output.png)
 
-</details>
+
 
 ### Set Up Instructions
 
-<details>
+
 <summary>Click to view</summary>
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
-</details>
+
 
 ### Completion Instructions
 
-<details>
+
 <summary>Functionality to be added</summary>
 <br/>
 
@@ -71,12 +71,12 @@ The app must have the following functionalities
   | displayText |  String   |
 
 
-</details>
+
 
 
 ### Important Note
 
-<details>
+
 <summary>Click to view</summary>
 
 <br/>
@@ -86,11 +86,11 @@ The app must have the following functionalities
  - Home Route should consist of `/` in the URL path
  - Register Route should consist of `/register` in the URL path
 
-</details>
+
 
 ### Resources
 
-<details>
+
 <summary>Image URLs</summary>
 
  - [https://assets.ccbp.in/frontend/react-js/meetup/website-logo-img.png](https://assets.ccbp.in/frontend/react-js/meetup/website-logo-img.png) alt should be **website logo**
@@ -98,9 +98,9 @@ The app must have the following functionalities
  - [https://assets.ccbp.in/frontend/react-js/meetup/meetup-img.png](https://assets.ccbp.in/frontend/react-js/meetup/meetup-img.png) alt should be **meetup**
  - [https://assets.ccbp.in/frontend/react-js/meetup/not-found-img.png](https://assets.ccbp.in/frontend/react-js/meetup/not-found-img.png) alt should be **not found**
 
-</details>
 
-<details>
+
+
 <summary>Colors</summary>
 
 <br/>
@@ -115,14 +115,14 @@ The app must have the following functionalities
 <div style="background-color: #cbd5e1; width: 150px; padding: 10px; color: black">Hex: #cbd5e1</div>
 <div style="background-color: #ff0b37; width: 150px; padding: 10px; color: black">Hex: #ff0b37</div>
 
-</details>
 
-<details>
+
+
 <summary>Font-families</summary>
 
 - Roboto
 
-</details>
+
 
 > ### _Things to Keep in Mind_
 >
