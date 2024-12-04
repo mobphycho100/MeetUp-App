@@ -36,8 +36,6 @@ The goal of this coding exam is to quickly get you off the ground with **React C
 ### Set Up Instructions
 
 
-<summary>Click to view</summary>
-
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
 
